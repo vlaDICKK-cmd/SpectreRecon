@@ -15,7 +15,7 @@ SpectreRecon позволяет безопасно собирать информ
 
 1. Клонируйте этот репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИКНЕЙМ/SpectreRecon.git
+   git clone https://github.com/vlaDICKK-cmd/SpectreRecon.git
    cd SpectreRecon
    ```
 2. Установите необходимые библиотеки:
